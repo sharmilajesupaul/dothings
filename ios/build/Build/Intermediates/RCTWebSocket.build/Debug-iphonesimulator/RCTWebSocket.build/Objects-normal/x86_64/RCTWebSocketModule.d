@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/sharmila/Documents/dothings/node_modules/react-native/Libraries/WebSocket/RCTWebSocketModule.m \
+  /Users/sharmila/Documents/dothings/node_modules/react-native/Libraries/WebSocket/RCTWebSocketModule.h \
+  /Users/sharmila/Documents/dothings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/sharmila/Documents/dothings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/sharmila/Documents/dothings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/sharmila/Documents/dothings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/sharmila/Documents/dothings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/sharmila/Documents/dothings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/sharmila/Documents/dothings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/sharmila/Documents/dothings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/sharmila/Documents/dothings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/sharmila/Documents/dothings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/sharmila/Documents/dothings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/sharmila/Documents/dothings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/sharmila/Documents/dothings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/sharmila/Documents/dothings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/sharmila/Documents/dothings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/sharmila/Documents/dothings/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/sharmila/Documents/dothings/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/sharmila/Documents/dothings/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/sharmila/Documents/dothings/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/sharmila/Documents/dothings/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h
